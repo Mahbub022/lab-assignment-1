@@ -4,5 +4,5 @@ public class second {
     int roll;
     String name;
     String dept;
-    int b;
+    int a;
 }
